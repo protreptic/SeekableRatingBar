@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeekableRatingBar">
+        <attr name="stars" format="integer"/>
+        <attr name="rating" format="integer"/>
+        <attr name="starSize" format="dimension"/>
+        <attr name="starBeams" format="integer"/>
+        <attr name="starRadius" format="dimension"/>
+        <attr name="starInnerRadius" format="dimension"/>
+        <attr name="starRatedColor" format="color"/>
+        <attr name="starUnratedColor" format="color"/>
+    </declare-styleable>
+</resources>
